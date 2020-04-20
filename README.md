@@ -11,7 +11,7 @@ Thus, be sure to check there for the most recent form of this work.
 ## Paper
 
 ### arXiv
-The full paper is [arXiv](https://arxiv.org/abs/2004.04418)
+The full paper is available on [arXiv](https://arxiv.org/abs/2004.04418).
 
 ### SlidesLive presentation
 This work is presented as part of the AfricaNLP ICLR 2020 workshop.
