@@ -14,9 +14,9 @@ Thus, be sure to check there for the most recent form of this work.
 The full paper is available on [arXiv](https://arxiv.org/abs/2004.04418).
 
 ### SlidesLive presentation
-This work is presented as part of the AfricaNLP ICLR 2020 workshop.
-As such, it is presented online via SlidesLive.
-If we may, we will update this section with the link to said presentation.
+This work is presented as part of the [AfricaNLP ICLR 2020 workshop](https://africanlp-workshop.github.io/).
+As such, it is presented online via [SlidesLive](https://slideslive.com/38926580/on-optimal-transformer-depth-for-lowresource-language-translation?ref=account-folder-46632-folders).
+While there, please have a look at the [other work](https://slideslive.com/iclr-2020/workshop-africanlp-unlocking-local-languages) that was presented at the AfricaNLP workshop!
 
 ### Poster
 We have also created a [Poster](https://drive.google.com/file/d/1YfZie3P9s1OWA3gkKAzS-QNzFgqKFVRg/view?usp=sharing) summary of this work.
